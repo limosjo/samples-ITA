@@ -1,0 +1,14 @@
+
+public class Machine implements Info, IStartable{
+	int id;
+
+	public Machine(int id) {
+		this.id = id;
+	}
+
+	@Override
+	public void showInfo() {
+		System.out.println("My id is " + id);
+		
+	}
+}

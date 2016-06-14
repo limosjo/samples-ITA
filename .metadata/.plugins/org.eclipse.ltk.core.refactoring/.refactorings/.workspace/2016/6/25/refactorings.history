@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 22 resources" deleteContents="false" description="Delete 22 resources" element1="/10 - if" element10="/22 - Constructors" element11="/23 - Static (and Final)" element12="/5 - A Hello World Program" element13="/6 - Using Variables" element14="/7 - Strings - Working With Text" element15="/8 - While Loops" element16="/9 - For Loops" element17="/Abstract Classes" element18="/example1" element19="/Inner Classes" element2="/11 - Getting User Input" element20="/Interfaces" element21="/my-app-simple" element22="/my-app-webapp" element3="/12 - Do While" element4="/13 - Switch" element5="/17 - Classes and Objects" element6="/18 - Methods" element7="/19 - Getters and Return Values" element8="/20 - Method Parameters" element9="/21 - Setters and &apos;this&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="22" stamp="1465876858626"/>
+</session>

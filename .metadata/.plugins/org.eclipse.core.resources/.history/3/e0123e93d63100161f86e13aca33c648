@@ -1,0 +1,14 @@
+
+public class Machine implements Info{
+	int id;
+
+	public Machine(int id) {
+		this.id = id;
+	}
+
+	@Override
+	public void showInfo() {
+		// TODO Auto-generated method stub
+		
+	}
+}

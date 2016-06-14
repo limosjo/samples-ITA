@@ -1,0 +1,20 @@
+public class Application {
+public static void stringReplace (String text) {  
+text = text.replace (‘j‘ , ‘i‘);  
+}
+
+public static void bufferReplace(StringBuffer text) {  
+text = text.append (“C”)  
+}
+
+public static void main (String args){
+
+String textString = new String (“java”);
+StringBuffer textBufferString=new StringBuffer(“java”);
+
+stringReplace (textString);
+BufferReplace (textBuffer);
+ 
+System.out.printIn (textString + textBuffer);  
+}
+}
