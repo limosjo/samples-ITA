@@ -449,3 +449,49 @@
 2016-06-14 12:58:56,837 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\my-app-simple\src\main\resources
 2016-06-14 12:58:56,838 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-06-14 12:58:56,838 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\my-app-simple\src\test\resources
+2016-06-14 19:55:46,783 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 19:55:46,787 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\my-app-simple\src\main\resources
+2016-06-14 19:55:46,789 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-14 19:55:46,789 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\my-app-simple\src\test\resources
+2016-06-14 19:55:47,583 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-14 19:55:47,589 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-14 19:55:47,591 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-14 19:55:47,598 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\my-app-webapp\src\test\resources
+2016-06-15 13:18:55,405 [Worker-96] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\limosjo\workspace\HelloWorld\pom.xml
+2016-06-15 13:18:57,201 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mnl.web:HelloWorld:0.0.1-SNAPSHOT @ C:\Users\limosjo\workspace\HelloWorld\pom.xml.
+2016-06-15 13:18:57,631 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2016-06-15 13:18:57,632 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2016-06-15 13:18:57,632 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2016-06-15 13:18:59,901 [Worker-96] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-06-15 13:19:00,338 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-15 13:19:00,339 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-15 13:19:00,341 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-15 13:19:00,341 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\HelloWorld\src\test\resources
+2016-06-15 13:21:10,130 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-15 13:21:10,155 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-15 13:21:10,156 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-15 13:21:10,157 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\HelloWorld\src\test\resources
+2016-06-15 13:21:22,095 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-06-15 13:21:27,574 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\limosjo\workspace\HelloWorld
+2016-06-15 13:21:27,575 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2016-06-15 13:21:44,314 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-06-15 13:21:55,347 [Worker-112] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\limosjo\workspace\HelloWorld
+2016-06-15 13:21:55,347 [Worker-112] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2016-06-15 13:22:12,753 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-06-15 13:22:12,788 [Worker-113] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\limosjo\workspace\HelloWorld
+2016-06-15 13:22:12,788 [Worker-113] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2016-06-15 13:22:19,550 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\limosjo\workspace\HelloWorld
+2016-06-15 13:22:19,550 [Worker-111] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-06-15 13:22:46,770 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-15 13:22:46,771 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-15 13:22:46,772 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-15 13:22:46,773 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\HelloWorld\src\test\resources
+2016-06-15 14:21:25,668 [Worker-114] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\limosjo\workspace\TestCase\pom.xml
+2016-06-15 14:21:25,725 [Worker-114] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mnl.web:TestCase:0.0.1-SNAPSHOT @ C:\Users\limosjo\workspace\TestCase\pom.xml.
+2016-06-15 14:21:25,851 [Worker-114] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestCase/src/main/java
+2016-06-15 14:21:25,854 [Worker-114] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestCase/src/test/java
+2016-06-15 14:21:25,912 [Worker-114] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-06-15 14:21:26,289 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 14:21:26,289 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\TestCase\src\main\resources
+2016-06-15 14:21:26,290 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-15 14:21:26,290 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\limosjo\workspace\TestCase\src\test\resources

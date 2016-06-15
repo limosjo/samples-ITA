@@ -1,0 +1,10 @@
+class Base {}
+class Sub extends Base {}
+class Sub2 extends Base {}
+public class App{
+    public static void main(String argv[]){
+    	System.out.println( -1 >>> 2);
+    	System.out.println( 2 >> 1); 
+//    	System.out.println( 1 <<< 2); 
+    }
+}

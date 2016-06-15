@@ -1,0 +1,35 @@
+
+public class App {
+
+	static int num;
+//	public static void main(String[] args) {
+//		String text = "Hello";
+//		System.out.println(text.length());
+//		
+//		int k = 0;
+//		assert(k != 0);
+//		
+//		try{
+//			int i = 6/k;
+//		}catch(ArithmeticException e){
+//			System.out.println("An arithmetic exception is catch");
+//		}
+//		System.out.println("passed.");
+//		
+//		String[] texts ={"one", "two", "three"};
+//		try{
+//			System.out.println(texts[3]);
+//		}catch(ArrayIndexOutOfBoundsException e){
+//			System.out.println("An array out of bound exception is catch");
+//		}
+//
+//		System.out.println(num);
+		
+		 public static void main(String argv[]){
+			 int anar[]=new int[]{1,2,3};
+			 System.out.println(anar[1]);
+			 }
+
+//	}
+
+}
